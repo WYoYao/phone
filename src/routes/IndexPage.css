@@ -1,0 +1,16 @@
+body{
+  margin: 0;
+}
+
+
+.normal {
+  display: flex;
+  height: 100%;
+  font-family: Georgia, sans-serif;
+  text-align: center;
+}
+
+.slide{
+  flex: 1;
+  height: 100%;
+}
